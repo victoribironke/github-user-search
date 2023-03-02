@@ -14,7 +14,7 @@ This is a solution to the [Github user search app challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Github User Search App](https://your-live-site-url.com)
+- Live Site URL: [Github User Search App](https://userlookup.netlify.app/)
 
 ## My process
 
