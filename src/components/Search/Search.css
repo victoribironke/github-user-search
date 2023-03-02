@@ -1,0 +1,41 @@
+.container {
+  background: var(--dark-mode-navy);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem;
+  padding-left: 1.3rem;
+  border-radius: 15px;
+  gap: 0.8rem;
+}
+
+.container img {
+  width: 30px;
+}
+
+::placeholder {
+  color: white;
+}
+
+.container input {
+  width: 100%;
+  padding: 0.5rem 0;
+  background: none;
+  border: none;
+  outline: none;
+  color: var(--dark-mode-white);
+  font-size: 1rem;
+  margin-right: auto;
+}
+
+.container button {
+  border: none;
+  color: white;
+  background: var(--bright-blue);
+  padding: 0.6rem 1.1rem;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
